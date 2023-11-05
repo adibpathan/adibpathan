@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer and Data Analaytics
 -------------------------------------
 
-i have a deep knowledge about MERN Stack and Data analyst.
+i have a deep knowledge about MERN Stack and Data Analytics.
 
 * 🌍  I'm based in Koperkhairane, Navi-Mumbai
 * ✉️  You can contact me at [adibpathan41833@gmail.com](mailto:adibpathan41833@gmail.com)
