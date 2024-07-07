@@ -8,7 +8,7 @@ i have a deep knowledge about MERN Stack and Data Analytics.
 
 * 🌍  I'm based in Koperkhairane, Navi-Mumbai
 * ✉️  You can contact me at [adibpathan41833@gmail.com](mailto:adibpathan41833@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  oops concepts
 * ⚡  keep learning keep exploring
 
 ### Skills
